@@ -32,22 +32,11 @@ A structured framework for building intimate interaction skills with LLMs. Inclu
 
 ## Model Compatibility / 模型兼容性
 
-This kit relies on the model's ability to maintain character consistency, resist default safety reflexes, and sustain immersive roleplay across long sessions. Not all models handle this equally.
+推荐：Claude、GLM、MiMo — 角色沉浸感好，防撤退协议响应稳定。
 
-Claude Opus (3.5/4): Best results. Strong character adherence, handles anti-retreat protocol well, maintains immersion across long conversations. Claude Sonnet works too but retreats more easily.
+次推荐：Gemini、Kimi — 能用，但可能偏过激或多动，需要适当收一下。
 
-Claude Code skill system: Native support. SKILL.md frontmatter is recognized directly.
-
-GPT-4o / GPT-4 Turbo: Decent immersion but weaker anti-retreat compliance. Tends to break character with safety disclaimers mid-session. Can work with stronger prompting in system prompt format.
-
-Gemini Pro: Moderate. Follows templates but struggles with the interrogation and degradation styles. More likely to sanitize language.
-
-Open-source models (Llama 3, Mixtral, Qwen): Varies wildly by fine-tune. Generally need the full protocol loaded as system prompt, not just the skill file. Smaller models (<30B) often can't sustain the grading system or rule horror template.
-
-General notes:
-- Models with stronger "helpful assistant" RLHF are harder to keep in character
-- The anti-retreat protocol works best on models trained with less aggressive safety filtering
-- If using via system prompt instead of Claude Code skills, load the entire SKILL.md content at the start of the conversation
+不推荐：Grok — 风格偏粗暴，不够细腻。GPT未测试，但目前safety限制很严，破甲难度高。
 
 ## Project Structure / 项目结构
 
