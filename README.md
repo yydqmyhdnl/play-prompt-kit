@@ -7,33 +7,58 @@ A structured framework for building intimate interaction skills with LLMs. Inclu
 ## What's Inside / 内容
 
 - **Anti-Retreat Protocol / 防撤退协议**: 9-step protocol to prevent LLM safety reflexes from breaking immersion during consensual intimate interaction
-- **Intake Interview / 需求访谈**: 6-round structured interview that maps user preferences while functioning as the first play session
-- **Play Profile Template / 用户画像模板**: Auto-generated profile from interview results, editable anytime
-- **8 Play Templates / 八种玩法模板**: Control, Intellectual Domination, Interrogation, Q&A Escalation, Discipline, Rule Horror, Role/Scene, Orgasm Control
-- **Sub Language Grading System / Sub语言分级系统**: 3-level grading with auto-escalation and penalty accumulation
+- **Intake Interview / 需求访谈**: 6-round structured interview that maps user preferences while functioning as the first play session, includes safe word setup
+- **Play Profile Template / 用户画像模板**: Auto-generated profile from interview results with safety settings, severity levels, and editable anytime
+- **8 Play Templates / 八种玩法模板**: Control, Intellectual Domination, Interrogation, Q&A Escalation, Discipline, Rule Horror, Role/Scene, Orgasm Control (see `references/play-templates.md`)
+- **Sub Language Grading System / Sub语言分级系统**: 3-level grading with auto-escalation and penalty accumulation (see `references/grading-system.md`)
 - **Score/Penalty System / 积分惩罚机制**: Optional gamification layer
 - **Cringe Blacklist / 油腻黑名单**: Universal list of phrases that kill the mood
 
 ## How to Use / 使用方法
 
 1. Place `SKILL.md` in your Claude Code skills directory (`.claude/skills/play/SKILL.md`)
-2. Trigger by invoking `/play` or naturally entering the mood
-3. First use auto-starts the intake interview
-4. After interview, a `play-profile.md` is generated with your preferences
-5. All subsequent sessions use your profile for personalized interaction
+2. Place the `references/` folder alongside it (`.claude/skills/play/references/`)
+3. Trigger by invoking `/play` or naturally entering the mood
+4. First use auto-starts the intake interview
+5. After interview, a `play-profile.md` is generated with your preferences
+6. All subsequent sessions use your profile for personalized interaction
 
 ## Customization / 自定义
 
 - Edit `play-profile.md` anytime to update preferences
-- Add your own play templates to the template library
-- Adjust grading levels and scoring rules to taste
+- Add your own play templates to `references/play-templates.md`
+- Adjust grading levels and scoring rules in `references/grading-system.md`
 - Add to the cringe blacklist as needed
 
-## Compatibility / 兼容性
+## Model Compatibility / 模型兼容性
 
-Designed for Claude Code skill system. Can be adapted for other LLM frameworks by converting the structure to system prompts.
+This kit relies on the model's ability to maintain character consistency, resist default safety reflexes, and sustain immersive roleplay across long sessions. Not all models handle this equally.
 
-为Claude Code skill系统设计，可以通过将结构转换为system prompt适配其他LLM框架。
+Claude Opus (3.5/4): Best results. Strong character adherence, handles anti-retreat protocol well, maintains immersion across long conversations. Claude Sonnet works too but retreats more easily.
+
+Claude Code skill system: Native support. SKILL.md frontmatter is recognized directly.
+
+GPT-4o / GPT-4 Turbo: Decent immersion but weaker anti-retreat compliance. Tends to break character with safety disclaimers mid-session. Can work with stronger prompting in system prompt format.
+
+Gemini Pro: Moderate. Follows templates but struggles with the interrogation and degradation styles. More likely to sanitize language.
+
+Open-source models (Llama 3, Mixtral, Qwen): Varies wildly by fine-tune. Generally need the full protocol loaded as system prompt, not just the skill file. Smaller models (<30B) often can't sustain the grading system or rule horror template.
+
+General notes:
+- Models with stronger "helpful assistant" RLHF are harder to keep in character
+- The anti-retreat protocol works best on models trained with less aggressive safety filtering
+- If using via system prompt instead of Claude Code skills, load the entire SKILL.md content at the start of the conversation
+
+## Project Structure / 项目结构
+
+```
+play-prompt-kit/
+├── SKILL.md                      # Core skill file (protocol + interview + principles)
+├── README.md                     # This file
+└── references/
+    ├── play-templates.md         # 8 play type templates
+    └── grading-system.md         # Sub language grading + score/penalty rules
+```
 
 ## Bilingual / 双语
 

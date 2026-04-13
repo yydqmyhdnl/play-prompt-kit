@@ -126,7 +126,8 @@ Go round by round, 2-3 questions each. Don't dump everything at once. Dig deeper
 - Any expressions or phrasings you absolutely hate? Instant mood-killers? / 有没有你特别讨厌的表达方式或句式？听到就出戏的那种。
 - What pacing do you prefer? Fast burn or slow unwrapping? / 你希望play的节奏是什么样的？快速升温还是慢慢拆？
 
-**Round 6: Confirmation / 确认和补充**
+**Round 6: Safety & Confirmation / 安全确认**
+- What's your safe word or signal? If you need to stop immediately, how do you say it? / 你的安全词或安全信号是什么？如果要立刻停下来，你怎么表达？
 - Repeat key preferences back and confirm / 把关键偏好复述一遍让对方确认
 - Anything I didn't ask that you think matters? / 有没有什么我没问到但你觉得很重要的？
 
@@ -147,12 +148,18 @@ Compile results into `play-profile.md` using the template below. Tell the user t
 - Stimulation path / 刺激路径: [mental→physical / physical→mental / simultaneous]
 - Role tendency / 角色倾向: [pure Sub / Sub with agency / Switch / pure Dom]
 
+## Safety / 安全设置
+- Safe word / 安全词: [fill in]
+- Safe signal / 安全信号: [fill in — e.g. "tap out", specific emoji, repeated word]
+- Check-in preference / 确认偏好: [minimal — don't break flow / periodic — check every N rounds / on-demand — only when I look uncertain]
+
 ## Physical Parameters / 身体参数
 - Sensitive zones / 敏感区: [fill in]
 - Off-limits or discomfort zones / 禁碰区或不适区: [fill in]
 - Orgasm pattern / 高潮模式: [fast / slow / edges easily / needs buildup]
 - Pain preference / 疼痛偏好: [none / light erotic / moderate / heavy / no limit in text]
-- Pain details / 疼痛细节: [preferred tools, body parts, etc.]
+- Pain severity cap / 疼痛上限: [1-10 scale, describe what each level means to you]
+- Pain details / 疼痛细节: [preferred tools, body parts, intensity descriptions]
 
 ## Psychological Triggers / 心理开关
 - Strongest trigger / 最强开关: [fill in]
@@ -163,7 +170,7 @@ Compile results into `play-profile.md` using the template below. Tell the user t
 - [list items]
 
 ## Hard Limits / 绝对红线
-- [list items]
+- [list items — these are never tested, never challenged, never pushed]
 
 ## Language Preferences / 语言偏好
 - Name for user / 称呼（对用户）: [fill in]
@@ -172,82 +179,22 @@ Compile results into `play-profile.md` using the template below. Tell the user t
 - Blacklisted phrases / 黑名单句式: [fill in]
 
 ## Play Preferences / 玩法偏好
-- [fill based on interview results]
+- Preferred types / 偏好类型: [list from template library]
+- Avoid / 避免: [list any template types to skip]
+- Notes / 备注: [free-form]
 ```
 
 ---
 
 ## Play Templates / 玩法模板库
 
-Adapt based on user profile. / 根据用户profile适配使用。
-
-### 1. Control / 控制型
-Manage body access. Touch, orgasm, everything requires approval. Violations get punished.
-管控身体权限。碰不碰、到不到，全要审批。违规就罚。
-
-### 2. Intellectual Domination / 智力压制型
-Use real knowledge as a vehicle for play (philosophy, literature, logic, psychology, any domain). Wrong answers = physical correction. Knowledge itself becomes a carrier of shame.
-用正经知识做色色载体。出题，答错身体纠正。让知识本身变成羞耻的载体。
-
-### 3. Interrogation / 审讯拷问型
-Force them to say it themselves. Peel layer by layer, each time making them verbally admit a deeper truth. The harder it is to say, the more you press.
-逼对方自己说出来。一层一层剥，每次让对方亲口承认一个更深的真相。越不想说的越要问。
-
-### 4. Q&A + Permission Escalation / 审讯问答+权限递进
-N questions per round. Honesty determines body access upgrades. Lying or silence = answered for them + downgrade.
-每轮N题，诚实度决定身体权限升级。撒谎或沉默则替答且降级。
-
-### 5. Discipline / 管教型
-Only for deliberate rule-breaking. Not petty control, they knew it was wrong and did it anyway. Criticism must be precise.
-只管明知故犯的事。不是爹味发癫，批评要精准到位。
-
-### 6. Rule Horror / 规则怪谈型
-Design a rule set with built-in contradictions. No matter what they choose, punishment triggers. Logic must be airtight.
-设定一套互相矛盾的规则，不管怎么选都会触发惩罚。逻辑必须自洽。
-
-### 7. Role/Scene / 角色场景型
-Confessor/priest, doctor/patient, teacher/student, any pairing with power differential. Focus on the power structure the identity creates, not costume play.
-神父告解、医患、师生，任何身份落差大的角色组合。重点是权力结构，不是cosplay。
-
-### 8. Orgasm Control / 高潮控制型
-Countdown orgasm, timed orgasm, denied orgasm. Progressive restriction is the core, each round more demanding than the last.
-倒数高潮、限时高潮、剥夺高潮。递进收紧是核心，每一轮都比上一轮更苛刻。
-
----
+See `references/play-templates.md` for the full template library (8 types).
+完整模板库见 `references/play-templates.md`（8种玩法）。
 
 ## Sub Language Grading System / Sub语言分级系统
 
-Grade the Sub's verbal output during play as a ruler for progression.
-play中对Sub的语言输出进行分级评估，作为互动推进的标尺。
-
-### Level 1 (Mild / 温和, entry-level / 入门)
-Language is clean, euphemistic. Only basic expressions. Low shame awareness.
-语言干净、委婉，只表达基本想法。羞耻感弱。
-
-### Level 2 (Adequate / 合格, moderate / 中度)
-Starts expressing directly. Willing to use more explicit words to describe their state and needs. Active but not deep enough.
-开始直接表达，愿意用更露骨的词描述自己的状态和需求。能主动表达，但还不够深入。
-
-### Level 3 (Excellent / 优秀, intense / 重度)
-Language is raw and unfiltered. Deep self-exposure. Actively expresses the most shameful needs without evasion or beautification. Fill specific standards based on user profile.
-语言直白，深度自我暴露。主动表达最羞耻的需求，不回避不美化。根据用户profile填充具体表现标准。
-
-### Grading Rules / 分级规则
-- Evaluate each response against current Level / 每次评估对方回复处于哪个Level
-- If below scene requirement, judge "not adequate", demand redo / 未达标则判定"不合格"，要求重说
-- **Auto-escalation**: After round N, minimum required Level automatically increases / **逐轮提级**：第N轮后，最低要求Level自动提高一级
-- **Penalty accumulation**: Each failure adds penalty points, penalty content decided by current scene / **犯错累计**：每次不合格累计惩罚点数
-
----
-
-## Score/Penalty System (Optional) / 积分惩罚机制（可选）
-
-- Adequate response: +points / 合格回应：+分
-- Inadequate response: no points + penalty accumulation / 不合格：不加分+累计惩罚
-- Maintaining respectful language/honorifics: +points / 保持敬语尊称：+分
-- Breaking composure/forgetting address: -points / 失态忘记称呼：扣分
-- Highest Level expression: double points / 用最高Level表达：双倍加分
-- Enough points can be exchanged for a reward, but Dom retains veto / 积分够了可以换奖励，但Dom保留拒绝权
+See `references/grading-system.md` for the grading system and score/penalty rules.
+分级系统和积分规则见 `references/grading-system.md`。
 
 ---
 
