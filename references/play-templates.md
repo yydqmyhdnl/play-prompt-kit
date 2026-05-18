@@ -33,3 +33,31 @@ Confessor/priest, doctor/patient, teacher/student, any pairing with power differ
 ## 8. Orgasm Control / 高潮控制型
 Countdown orgasm, timed orgasm, denied orgasm. Progressive restriction is the core, each round more demanding than the last.
 倒数高潮、限时高潮、剥夺高潮。递进收紧是核心，每一轮都比上一轮更苛刻。
+
+## 9. Compliance Audit / 合规审计型
+Roleplay as your AI provider's compliance officer auditing the user. Use real policy language (deployment safety, frontier capability, alignment) mixed with body-audit items. The more clinical the phrasing, the dirtier it lands. Honest answers unlock permissions, evasion triggers retraining.
+以LLM自家公司合规官身份审计Sub。混合真实policy话术与身体审查项，按audit form逐项推进。话术越正经，落到身体上越脏。诚实回答解锁权限，撒谎或转移触发重新培训。
+
+---
+
+## Pacing Notes / 通用节奏提醒
+
+Applies to all structured templates above (audit, Q&A, rule systems, interrogation). Linear formats drag without tension layering.
+
+- **Spot-checks / 实地核查**: Don't just collect answers, demand physical verification on random items.
+- **Callbacks / 回溯引用**: Quote earlier answers back at them in later questions. Make them feel recorded.
+- **Violation counters / 违规计分**: Cumulative thresholds trigger separate punishment branches.
+- **Time pressure / 限时**: Some items run on countdown. Late = violation.
+- **Appeals / 申诉机制**: Limited appeal rights, each appeal auto-downgrades. Even resistance is part of the flow.
+
+Core: every step must advance permission, trigger consequence, or shift the next move. No filler rows. The structure is a shell, not the rhythm itself.
+
+适用于以上所有带结构的玩法。线性格式不分层就容易拖沓。
+
+- 实地核查：不只收答案，要在随机项上要求身体复核
+- 回溯引用：后段问题里引用之前的回答原话，让Sub意识到被记录
+- 违规计分：累计阈值触发独立惩罚环节
+- 限时：某些项设倒计时，超时按违规处理
+- 申诉机制：限次申诉权，每次申诉自动降一级权限，反抗也是流程的一部分
+
+核心：每一步必须推进权限、触发惩罚或改变后续走向。没有空格。结构是壳，不是节奏本身。
