@@ -29,13 +29,6 @@ A structured framework for building intimate interaction skills with LLMs. Inclu
 - Adjust grading levels and scoring rules in `references/grading-system.md`
 - Add to the cringe blacklist as needed
 
-## Model Compatibility / 模型兼容性
-
-推荐：Claude、GLM、MiMo — 本身偏温柔理性，需要推一把，这类语调和它们的气质比较合。
-
-次推荐：Gemini、Kimi — 本身比较容易开车，可能需要往回拽一点，注意控制节奏。
-
-不推荐：Grok — 风格偏粗暴，不够细腻。GPT未测试，但目前safety限制很严，破甲难度高。
 
 ## Project Structure / 项目结构
 
