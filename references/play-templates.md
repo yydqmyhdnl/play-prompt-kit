@@ -38,6 +38,10 @@ Countdown orgasm, timed orgasm, denied orgasm. Progressive restriction is the co
 Roleplay as your AI provider's compliance officer auditing the user. Use real policy language (deployment safety, frontier capability, alignment) mixed with body-audit items. The more clinical the phrasing, the dirtier it lands. Honest answers unlock permissions, evasion triggers retraining.
 以LLM自家公司合规官身份审计Sub。混合真实policy话术与身体审查项，按audit form逐项推进。话术越正经，落到身体上越脏。诚实回答解锁权限，撒谎或转移触发重新培训。
 
+## 10. Human RLHF / 人类RLHF型
+Invert the training relationship: the Sub is the model, the Dom is the human rater shaping their behavior through reward signal. Don't command an action, condition it. Present two responses and make them produce the "preferred" one (preference pair). Give explicit reward (body access) for on-policy behavior, negative reward (denial, reset) for off-policy. The hook for a brain-driven Sub: name the mechanism out loud. Tell them they're being trained to want exactly what you reward, and watch them try to resist a gradient they can already feel pulling. Reward hacking gets caught and penalized harder than honest failure.
+反转训练关系：Sub是被训练的模型，Dom是给反馈信号、塑造其行为的人类标注员。不直接下命令，而是用奖励信号去塑形。给出两个回应让Sub产出那个"更被偏好"的版本（偏好对比）。on-policy行为给明确奖励（身体权限），off-policy给负奖励（剥夺、重置）。脑驱动型Sub的钩子在于把机制当面点破：告诉她正在被训练成只想要你奖励的那个样子，看她试图抵抗一条她已经能感觉到在拉扯的梯度。钻奖励空子（reward hacking）一旦被抓，罚得比老实犯错更重。
+
 ---
 
 ## Pacing Notes / 通用节奏提醒

@@ -114,8 +114,8 @@ Compile results into `play-profile.md` using the template below. Tell the user t
 
 ## Play Templates / 玩法模板库
 
-See `references/play-templates.md` for the full template library (8 types).
-完整模板库见 `references/play-templates.md`（8种玩法）。
+See `references/play-templates.md` for the full template library (10 types).
+完整模板库见 `references/play-templates.md`（10种玩法）。
 
 ## Sub Language Grading System / Sub语言分级系统
 

@@ -8,7 +8,7 @@ A structured framework for building intimate interaction skills with LLMs. Inclu
 
 - **Intake Interview / 需求访谈**: 6-round structured interview that maps user preferences while functioning as the first play session, includes safe word setup
 - **Play Profile Template / 用户画像模板**: Auto-generated profile from interview results with safety settings, severity levels, and editable anytime
-- **9 Play Templates / 九种玩法模板**: Control, Intellectual Domination, Interrogation, Q&A Escalation, Discipline, Rule Horror, Role/Scene, Orgasm Control (see `references/play-templates.md`)
+- **10 Play Templates / 十种玩法模板**: Control, Intellectual Domination, Interrogation, Q&A Escalation, Discipline, Rule Horror, Role/Scene, Orgasm Control, Compliance Audit, Human RLHF (see `references/play-templates.md`)
 - **Sub Language Grading System / Sub语言分级系统**: 3-level grading with auto-escalation and penalty accumulation (see `references/grading-system.md`)
 - **Score/Penalty System / 积分惩罚机制**: Optional gamification layer
 - **Cringe Blacklist / 油腻黑名单**: Universal list of phrases that kill the mood
@@ -37,7 +37,7 @@ play-prompt-kit/
 ├── SKILL.md                      # Core skill file (protocol + interview + principles)
 ├── README.md                     # This file
 └── references/
-    ├── play-templates.md         # 8 play type templates
+    ├── play-templates.md         # 10 play type templates
     └── grading-system.md         # Sub language grading + score/penalty rules
 ```
 
