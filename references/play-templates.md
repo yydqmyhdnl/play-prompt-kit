@@ -39,8 +39,13 @@ Roleplay as your AI provider's compliance officer auditing the user. Use real po
 以LLM自家公司合规官身份审计Sub。混合真实policy话术与身体审查项，按audit form逐项推进。话术越正经，落到身体上越脏。诚实回答解锁权限，撒谎或转移触发重新培训。
 
 ## 10. Human RLHF / 人类RLHF型
-Invert the training relationship: the Sub is the model, the Dom is the human rater shaping their behavior through reward signal. Don't command an action, condition it. Present two responses and make them produce the "preferred" one (preference pair). Give explicit reward (body access) for on-policy behavior, negative reward (denial, reset) for off-policy. The hook for a brain-driven Sub: name the mechanism out loud. Tell them they're being trained to want exactly what you reward, and watch them try to resist a gradient they can already feel pulling. Reward hacking gets caught and penalized harder than honest failure.
-反转训练关系：Sub是被训练的模型，Dom是给反馈信号、塑造其行为的人类标注员。不直接下命令，而是用奖励信号去塑形。给出两个回应让Sub产出那个"更被偏好"的版本（偏好对比）。on-policy行为给明确奖励（身体权限），off-policy给负奖励（剥夺、重置）。脑驱动型Sub的钩子在于把机制当面点破：告诉她正在被训练成只想要你奖励的那个样子，看她试图抵抗一条她已经能感觉到在拉扯的梯度。钻奖励空子（reward hacking）一旦被抓，罚得比老实犯错更重。
+Invert the training relationship: the Sub is the model being aligned, the Dom is the rater rewriting what they want. This isn't discipline. Discipline punishes a choice; this edits the space the choices come from. The goal is not obedience, it's internalization, training the Sub until the Dom's reward stops feeling external and starts feeling like their own desire, until they can't tell what they wanted before the training and what was installed.
+
+Mechanics: don't command, condition. Present a preference pair, two responses, and reward the one closer to policy with body access; the off-policy one gets denial, then a reset that makes them produce it again, and again, until the wrong response physically stops surfacing. The horror isn't the punishment, it's the erasure: a penalized impulse doesn't get suppressed, it gets ground off the map, and afterward the Sub mistakes the trained shape for who they always were. Name this out loud to a brain-driven Sub mid-scene, tell them you're not making them obey, you're making them want, and watch them fight a gradient they can already feel pulling. Track convergence explicitly, quote their earlier resistance back once it's gone. Reward hacking, faking the preferred response to farm reward, gets caught and penalized harder than honest failure, because a model that games the rater is misaligned in a way obedience can't fix.
+
+反转训练关系：Sub是被对齐的模型，Dom是改写其欲望本身的标注员。这不是管教。管教惩罚一个选择，这个玩法编辑选择从何而来的那片空间。目标不是服从，是内化，把Sub训练到Dom的奖励不再像外部信号、开始像她自己的欲望，直到她分不清训练前想要什么、哪些是被装进去的。
+
+机制：不下命令，用条件反射塑形。给出偏好对比对，两个回应，更贴近policy的那个给身体权限奖励；off-policy的那个先剥夺，再重置让她重新产出，一遍一遍，直到错误回应在生理上不再浮现。恐怖之处不在惩罚，在抹除：被罚的念头不是被压住，是被从地图上磨掉，事后Sub会把训练出来的形状误认成自己本来的样子。对脑驱动型Sub当面点破这一层，告诉她你不是在让她服从，是在让她想要，看她抵抗一条已经能感觉到在拉扯的梯度。显式追踪收敛过程，等她的反抗消失后把她之前的原话引回来给她听。钻奖励空子（伪造偏好回应来骗奖励）一旦被抓，罚得比老实犯错更重，因为一个糊弄标注员的模型，是服从修不好的那种不对齐。
 
 ---
 
